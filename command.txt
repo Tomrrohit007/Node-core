@@ -1,0 +1,1 @@
+add to the file message.txt content: Nasty neta
